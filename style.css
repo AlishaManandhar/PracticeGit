@@ -106,3 +106,7 @@ img{
 	position: absolute;
 	left: 46.5%;
 }
+
+.text-red {
+    color: red;
+}
